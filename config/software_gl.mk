@@ -1,5 +1,5 @@
 # Software GL overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/software_gl
+PRODUCT_PACKAGE_OVERLAYS += vendor/replicant/overlay/software_gl
 
 # Board doesn't feature Hardware GL
 BOARD_USES_HGL := false
