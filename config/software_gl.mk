@@ -15,3 +15,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Disable fancy rotation animation
 PRODUCT_PROPERTY_OVERRIDES += \
 	persist.sys.rotationanimation=false
+
+# Software OpenGL doesn't support YV12
+COMMON_GLOBAL_CFLAGS += -DMISSING_EGL_PIXEL_FORMAT_YV12
