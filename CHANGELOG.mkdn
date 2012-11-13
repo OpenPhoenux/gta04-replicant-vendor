@@ -1,6 +1,47 @@
 Replicant
 =========
 
+### Replicant 4.0 0001 images
+
+Initial Replicat 4.0 release. Devices status:
+
+Nexus S:
+* 2D graphics working
+* Sound working
+* Telephony working
+* Data (3G) working
+* WiFi working, with a non-free firmware
+* Bluetooth working, with a non-free firmware
+* Camera working
+
+Galaxy S:
+* 2D graphics working
+* Sound working
+* Telephony working
+* Data (3G) working
+* WiFi working, with a non-free firmware
+* Bluetooth working, with a non-free firmware
+* Accelerometer working
+* Camera working
+
+Galaxy S2:
+* 2D graphics working, fast
+* Sound working, except bluetooth
+* Telephony working
+* Data (3G) working
+* WiFi working, with a non-free firmware
+* Bluetooth working, with a non-free firmware
+
+Galaxy Nexus:
+* 2D graphics working, fast
+* Sound working
+* Telephony working
+* Data (3G) working
+* WiFi working, with a non-free firmware
+* Bluetooth working, with a non-free firmware
+* Accelerometer working
+* Compass working
+
 CyanogenMod
 ===============
 
