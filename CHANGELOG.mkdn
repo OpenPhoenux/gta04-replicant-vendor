@@ -1,6 +1,33 @@
 Replicant
 =========
 
+### Replicant 4.0 0002 images
+
+Nexus S:
+* Accelerometer support
+* Disable OMX hardware video decoding
+
+Galaxy S:
+* Disable OMX hardware video decoding
+* Standalone recovery image
+* Charging mode
+
+Galaxy S2:
+* Camera support
+* Accelerometer support
+* Disable OMX hardware video decoding
+* Standalone recovery image
+* Charging mode
+
+Galaxy Nexus:
+* Disable OMX hardware video decoding
+
+Common:
+* Modem: Fix SIM I/O and SIM init for SIM ICC type != 1
+* Modem: Fix timezone info report
+* Modem: Fix other bugs
+* Gallery: Switch to Gallery 2D
+
 ### Replicant 4.0 0001 images
 
 Initial Replicat 4.0 release. Devices status:
