@@ -1,6 +1,38 @@
 Replicant
 =========
 
+### Replicant 4.0 0003 images
+
+Galaxy S:
+* Remove TvOut from AriesParts
+
+Galaxy S2:
+* Compass support (hardly reliable)
+
+Galaxy Tab 2 10.1:
+* Initial Replicant 4.0 release
+* 2D graphics working (slow in portrait)
+* Sound working
+* Telephony working
+* Data (3G) working
+* WiFi working, with a non-free firmware
+* Bluetooth working, with a non-free firmware
+* Sensors working
+
+Galaxy Tab 2 7.0:
+* Initial Replicant 4.0 release
+* 2D graphics working (slow in portrait)
+* Sound working
+* Telephony working
+* Data (3G) working
+* WiFi working, with a non-free firmware
+* Bluetooth working, with a non-free firmware
+* Accelerometer, magnetic field and orientation sensors working
+
+Common:
+* Use and update F-Droid prebuilts
+* Modem: Fix software stability and major flaw in XMM6260 code
+
 ### Replicant 4.0 0002 images
 
 Nexus S:
@@ -30,7 +62,7 @@ Common:
 
 ### Replicant 4.0 0001 images
 
-Initial Replicat 4.0 release. Devices status:
+Initial Replicant 4.0 release. Devices status:
 
 Nexus S:
 * 2D graphics working
