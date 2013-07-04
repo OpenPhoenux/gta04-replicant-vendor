@@ -7,6 +7,3 @@ curl -L -o $BASEDIR/prebuilt/common/apps/FDroid.apk -O -L http://f-droid.org/FDr
 # Get Android Terminal Emulator
 curl -L -o $BASEDIR/prebuilt/common/apps/Term.apk -O -L http://f-droid.org/repo/jackpal.androidterm_53.apk
 unzip -o -d $BASEDIR/prebuilt/common/apps/ $BASEDIR/prebuilt/common/apps/Term.apk lib/armeabi/libjackpal-androidterm4.so
-
-# Get Superuser
-curl -L -o $BASEDIR/prebuilt/common/apps/Superuser.apk -O -L http://f-droid.org/repo/org.fdroid.superuser_1016.apk
