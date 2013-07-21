@@ -1,6 +1,42 @@
 Replicant
 =========
 
+### Replicant 4.0 0004 images
+
+Galaxy S2:
+* Camera: Fix EXIF in generated pictures (thanks to the team at CyanogenMod)
+
+Galaxy S3:
+* Initial Replicant 4.0 release
+* 2D graphics working
+* Sound working
+* Telephony working
+* Data (3G) working
+* WiFi working, with a non-free firmware
+* Bluetooth working, with a non-free firmware
+* Sensors working
+
+Galaxy Tab 2 10.1 WiFi:
+* Initial Replicant 4.0 release
+* 2D graphics working (slow in portrait)
+* Sound working
+* WiFi working, with a non-free firmware
+* Bluetooth working, with a non-free firmware
+* Sensors working
+
+Galaxy Tab 2 7.0 WiFi:
+* Initial Replicant 4.0 release
+* 2D graphics working (slow in portrait)
+* Sound working
+* WiFi working, with a non-free firmware
+* Bluetooth working, with a non-free firmware
+* Accelerometer, magnetic field and orientation sensors working
+
+Common:
+* Samsung RIL: Major rewrite and cleanup of device-specific code
+* SoftwareGL: Disable electron beam animations
+* Stick with the old Superuser and update FDroid
+
 ### Replicant 4.0 0003 images
 
 Galaxy S:
